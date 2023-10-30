@@ -108,7 +108,7 @@
     display: block;
     align-content: center;
     padding-bottom: 40px;
-    border-bottom: 1px solid #e6bc73;
+    border-bottom: 1px solid #ff4040;
     margin-bottom: 40px;
 }
 .single-amenities-box-style2:before{
@@ -183,7 +183,7 @@
     margin: 0 0 8px;
 }
 .single-amenities-box-style2 .title h3 a{
-    color: #dcb017;
+    color: #b017dc;
     transition: all 200ms linear;
     transition-delay: 0.1s;
     font-family: 'Tw Cen MT', sans-serif;

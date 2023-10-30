@@ -70,7 +70,7 @@
 .single-service-style1 .text-holder h3 a,
 .single-testimonial-style1 .text-holder .text-box .icon-box span,
 .accordion-box.style2 .accordion .accord-btn.active h4{
-    color: #e6bc73;
+    color: #ff4040;
 }
 
 
@@ -132,7 +132,7 @@
 .single-gallery-item .img-holder:before,
 .single-gallery-item .img-holder:after,
 .video-holder-box .icon:after {
-    background: #e6bc73;
+    background: #ff4040;
 }
 
 
@@ -156,13 +156,13 @@
 =====================================================
 ***/
 .mobile-menu .navigation li > a:before {
-    border-left: 5px solid #e6bc73;
+    border-left: 5px solid #ff4040;
 }
 .header-button-style5.style5instyle6 .button-box a {
-    border: 1px solid #e6bc73;
+    border: 1px solid #ff4040;
 }
 .single-gallery-item.style2 .img-holder .border-box{
-    border: 1px solid #e6bc73;
+    border: 1px solid #ff4040;
 }
 
 .space-availabe-table tbody tr td .button a:hover,
@@ -171,7 +171,7 @@
 .styled-pagination li.prev a:hover,
 .styled-pagination li.next a:hover,
 .floor-plans-tab-content-style2 .button-box a.first {
-    border-color: #e6bc73;
+    border-color: #ff4040;
 }
 
 
@@ -198,7 +198,7 @@
 .choose-style1-content .inner-content ul li .icon span,
 .accordion-box .accordion .accord-btn.active h4,
 .footer-social-link.style2 ul li a:hover {
-    color: #b7a35c;
+    color: #b75ca3;
 }
 
 
@@ -217,13 +217,13 @@
 .single-amenities-box-style3:after,
 .choose-style1-image-box ul li .img-box .overlay-content:before,
 .single-footer-widget.style2 .title:before {
-    background: #e6bc73;
+    background: #ff4040;
 }
 
 
 
 .main-slider .mouse-btn-down:after {
-	border: 2px solid #e6bc73;
+	border: 2px solid #ff4040;
 }
 
 
