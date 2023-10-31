@@ -70,7 +70,7 @@
 .single-service-style1 .text-holder h3 a,
 .single-testimonial-style1 .text-holder .text-box .icon-box span,
 .accordion-box.style2 .accordion .accord-btn.active h4{
-    color: #ff4040;
+    color: #E6A654
 }
 
 
@@ -132,7 +132,7 @@
 .single-gallery-item .img-holder:before,
 .single-gallery-item .img-holder:after,
 .video-holder-box .icon:after {
-    background: #ff4040;
+    background: #E6A654
 }
 
 
@@ -156,13 +156,13 @@
 =====================================================
 ***/
 .mobile-menu .navigation li > a:before {
-    border-left: 5px solid #ff4040;
+    border-left: 5px solid #E6A654
 }
 .header-button-style5.style5instyle6 .button-box a {
-    border: 1px solid #ff4040;
+    border: 1px solid #E6A654
 }
 .single-gallery-item.style2 .img-holder .border-box{
-    border: 1px solid #ff4040;
+    border: 1px solid #E6A654
 }
 
 .space-availabe-table tbody tr td .button a:hover,
@@ -171,7 +171,7 @@
 .styled-pagination li.prev a:hover,
 .styled-pagination li.next a:hover,
 .floor-plans-tab-content-style2 .button-box a.first {
-    border-color: #ff4040;
+    border-color: #E6A654
 }
 
 
@@ -217,13 +217,13 @@
 .single-amenities-box-style3:after,
 .choose-style1-image-box ul li .img-box .overlay-content:before,
 .single-footer-widget.style2 .title:before {
-    background: #ff4040;
+    background: #E6A654
 }
 
 
 
 .main-slider .mouse-btn-down:after {
-	border: 2px solid #ff4040;
+	border: 2px solid #E6A654
 }
 
 
