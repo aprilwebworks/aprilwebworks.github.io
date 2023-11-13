@@ -1112,7 +1112,7 @@ $(document).ready(function() {
     // Automatically open contact form after 5 seconds
     setTimeout(function(){
       $("#contactFormModal").modal("show");
-    }, 10000);
+    }, 3000);
   });
   $(document).ready(function() {
     // Close modal when close button is clicked
